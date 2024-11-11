@@ -1,4 +1,4 @@
-# EcoAlert
+# Disaster_Prediction
 Our project addresses the critical need to predict natural disasters—specifically wildfires, floods, earthquakes, and landslides—using advanced machine learning models trained on historical data. Each model is designed to recognize patterns and risks unique to each type of disaster, providing a proactive approach to protecting communities at risk.
 
 # Disaster Prediction Models: Focused and Specialized
